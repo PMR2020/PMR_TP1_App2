@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PMR_TP1_App1</string>
+    <string name="hello_pmr">Hello PMR !</string>
+    <string name="labelBtnOK">OK</string>
+    <string name="labelNom">Pseudo :</string>
+    <string name="name">Entrez votre pseudo</string>
+    <string name="Titre">Hello App !</string>
+</resources>
